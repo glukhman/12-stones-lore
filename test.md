@@ -7,7 +7,7 @@
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
     
-  <tr><td rowspan=4>Image<td colspan=2><b>Advanced Info
+  <td colspan=2><b>Advanced Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
