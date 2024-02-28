@@ -14,7 +14,7 @@
   <tr><td><b>Title<td>Data
 </table>
 
-****ER**** ER
+__ER__ ER
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
 
