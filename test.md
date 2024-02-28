@@ -2,7 +2,7 @@
 > Useful information that users should know, even when skimming content.
 
 | One    | Two | Three | Four    | Five  | Six |
-|-|||||-|
+|-|-|-|-|-|-|
 | Span <td colspan=3>triple  <td colspan=2>double |
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
