@@ -1,22 +1,7 @@
-<style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
-</style>
-
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-<table>
+<table bgcolor=red>
   <tr><td rowspan=8>Image<td colspan=2><h4>Basic Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
