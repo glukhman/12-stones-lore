@@ -1,3 +1,6 @@
+```css
+   td { background-color:#f00 }
+```
 <link href="http://github.com/nativeit/markdown-css/raw/master/darkishdown.css" rel="stylesheet"></link> 
 
 > [!NOTE]
