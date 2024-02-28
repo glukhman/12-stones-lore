@@ -1,4 +1,5 @@
-> [!NOTE] Useful information that users should know, even when skimming content.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 | Header 1 | Header 2 |
 |----------|----------|
