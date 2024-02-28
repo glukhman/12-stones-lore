@@ -5,9 +5,9 @@
   <th>
     <td colspan=3>Character Name
   <tr><td rowspan=4>Image<td colspan=2><b>Basic Info
-  <tr><td><td><b>Title<td>Data
-  <tr><td><td><b>Title<td>Data
-  <tr><td><td><b>Title<td>Data
+  <tr><td><b>Title<td>Data
+  <tr><td><b>Title<td>Data
+  <tr><td><b>Title<td>Data
 </table>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
