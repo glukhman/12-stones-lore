@@ -6,7 +6,7 @@ There is no way to do so. Either use an HTML table, or put the same text on seve
 
 like this:
 
-| Can Reorder | <td colspan=3> 2nd operation |
+| Can Reorder | <td colspan=3> 2nd operation |||
 | :---: | --- |-|-|
 |1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
 |Normal Load <br/> Normal Store| | | No|
