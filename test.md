@@ -1,9 +1,17 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-| One    | Two | Three | Four    | Five  | Six |
-|-|-|-|-|-|-|
-| Span <td colspan=3>triple  <td colspan=2>double |
+
+There is no way to do so. Either use an HTML table, or put the same text on several cells.
+
+like this:
+
+| Can Reorder | 2nd operation |2nd operation |2nd operation |
+| :---: | --- |
+|1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
+|Normal Load <br/> Normal Store| | | No|
+|Volatile Load <br/> MonitorEnter| No|No|No|
+|Volatile store <br/> MonitorExit| | No|No|
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
 
