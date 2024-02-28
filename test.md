@@ -1,7 +1,6 @@
 # The Empire of Elmanár
 
-| Capital | De jure:  Ristanna (161K)
-De facto, since 1303 https://www.notion.so/Major-events-in-world-history-38930a0dfb4e47458069aa3cf031aae2?pvs=21:  Laynora, capital of Meyria |
+| Capital | De jure:  Ristanna (161K) De facto, since 1303 https://www.notion.so/Major-events-in-world-history-38930a0dfb4e47458069aa3cf031aae2?pvs=21:  Laynora, capital of Meyria |
 | --- | --- |
 | Largest cities | Nayholt (327K),  Aspra (293K),  Felicita (276K),  Lympor (238K),  Jidath (225K), Nisseya (190K),  Laynora (176K),  Chelmis (152K),  Molnyeros (140K) |
 | Population | 154.6 million 
