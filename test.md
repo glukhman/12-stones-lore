@@ -2,9 +2,12 @@
 > Useful information that users should know, even when skimming content.
 
 <table>
-  <th>
-    <td colspan=4>Character Name
   <tr><td rowspan=4>Image<td colspan=2><b>Basic Info
+  <tr><td><b>Title<td>Data
+  <tr><td><b>Title<td>Data
+  <tr><td><b>Title<td>Data
+    
+  <tr><td rowspan=4>Image<td colspan=2><b>Advanced Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
