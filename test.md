@@ -6,12 +6,15 @@ There is no way to do so. Either use an HTML table, or put the same text on seve
 
 like this:
 
-| Can Reorder <th colspan=3> 2nd operation ||||
-| :---: | --- |-|-|
-|1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
-|Normal Load <br/> Normal Store| | | No|
-|Volatile Load <br/> MonitorEnter| No|No|No|
-|Volatile store <br/> MonitorExit| | No|No|
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
 
