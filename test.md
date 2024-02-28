@@ -2,7 +2,7 @@
 > Useful information that users should know, even when skimming content.
 
 <table>
-  <tr><td rowspan=8>Image<td colspan=2><h3>Basic Info
+  <tr><td rowspan=8>Image<td colspan=2><h4>Basic Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
@@ -14,7 +14,7 @@
   <tr><td><b>Title<td>Data
 </table>
 
-<small>ER</small>
+<small>ER</small>ER
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
 
