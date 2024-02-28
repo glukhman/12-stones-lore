@@ -1,7 +1,7 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-| Header 1 | Header 2 |
+| Span <td colspan=3>triple Header 1 | Header 2 |
 |----------|----------|
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
