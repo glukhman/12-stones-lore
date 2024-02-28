@@ -1,3 +1,5 @@
+<link href="http://github.com/nativeit/markdown-css/raw/master/darkishdown.css" rel="stylesheet"></link> 
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
