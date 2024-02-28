@@ -1,12 +1,9 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-| Span <td colspan=3>triple Header 1 | Header 2 |
-|----------|----------|--|--|
-| Cell 1   | Cell 2   |||
-| Cell 3   | Cell 4   |||
-| Cell 5   |          |||
-| Cell 6   |          |||
+One    | Two | Three | Four    | Five  | Six
+-|||||-
+Span <td colspan=3>triple  <td colspan=2>double
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
 
