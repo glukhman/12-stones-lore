@@ -1,7 +1,10 @@
 ```css
    td { background-color:#f00 }
+   h1 { color:#f00 }
 ```
 <link href="http://github.com/nativeit/markdown-css/raw/master/darkishdown.css" rel="stylesheet"></link> 
+
+# hi there
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
