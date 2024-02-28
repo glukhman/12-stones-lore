@@ -2,7 +2,7 @@
 > Useful information that users should know, even when skimming content.
 
 <table>
-  <tr  bgcolor=red><td rowspan=8>Image<td colspan=2><h4>Basic Info
+  <tr style="color:red"><td rowspan=8>Image<td colspan=2><h4>Basic Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
