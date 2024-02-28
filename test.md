@@ -5,7 +5,7 @@
   <th>
     <td colspan=3>Character Name
   <tr>
-    <td>Image<td colspan=2><b></b>Basic Info
+    <td>Image<td colspan=2><b>Basic Info
   <tr>
     <td><td><b>Title<td>Data
 </table>
