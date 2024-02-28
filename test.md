@@ -2,13 +2,13 @@
 > Useful information that users should know, even when skimming content.
 
 <table>
-  <tr><td rowspan=8>## Image<td colspan=2><b>Basic Info
+  <tr><td rowspan=8>Image<td colspan=2><h3>Basic Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
     
-  <tr><td colspan=2><b>Advanced Info
+  <tr><td colspan=2><h3>Advanced Info
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
   <tr><td><b>Title<td>Data
