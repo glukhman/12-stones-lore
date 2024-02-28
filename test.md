@@ -1,19 +1,11 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-
-There is no way to do so. Either use an HTML table, or put the same text on several cells.
-
-like this:
-
 <table>
+  <th>
+    <td colspan=3>Character Name
   <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
+    <td>Image<td colspan=2>**Basic Info**</td>
 </table>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
