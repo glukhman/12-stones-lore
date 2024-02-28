@@ -1,8 +1,8 @@
-body .tablelines table, 
-body .tablelines td, 
-body .tablelines th {
+<style>
+.tablelines table, .tablelines td, .tablelines th {
     border: 1px solid black; padding:10px;
-}
+    }
+</style>
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
