@@ -1,3 +1,9 @@
+body .tablelines table, 
+body .tablelines td, 
+body .tablelines th {
+    border: 1px solid black; padding:10px;
+}
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
