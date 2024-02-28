@@ -5,7 +5,9 @@
   <th>
     <td colspan=3>Character Name
   <tr>
-    <td>Image<td colspan=2>**Basic Info**</td>
+    <td>Image<td colspan=2><b></b>Basic Info
+  <tr>
+    <td><td><b>Title<td>Data
 </table>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. 
